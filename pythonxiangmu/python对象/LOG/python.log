@@ -1,0 +1,22 @@
+2021-08-27 19:34:53,387 - LOG_demo02_写入日志文件.py[line:26] - INFO: 好好学习!!!!
+2021-08-28 13:31:26,100 - LOG_demo02_写入日志文件.py[line:30] - INFO: 好好学习!!!!
+2021-08-28 13:32:33,167 - LOG_demo02_写入日志文件.py[line:34] - INFO: 好好学习!!!!
+2021-08-28 13:34:02,785 - LOG_demo02_写入日志文件.py[line:33] - INFO: 好好学习!!!!
+2021-08-28 13:36:53,154 - LOG_demo02_写入日志文件.py[line:35] - INFO: 好好学习!!!!
+file:2021-08-28 13:42:52,594 - LOG_demo02_写入日志文件.py[line:36] - INFO: 好好学习!!!!
+file:2021-08-28 13:44:19,633 - LOG_demo02_写入日志文件.py[line:36] - ERROR: 天天向上！！！
+file:2021-08-28 13:44:19,633 - LOG_demo02_写入日志文件.py[line:37] - INFO: 好好学习!!!!
+2021-08-28 14:46:18,351 - log_utils.py[line:27] - ERROR: 错误咯！！
+2021-08-28 15:08:01,588 - log_utils.py[line:24] - INFO: 创建workbook的对象成功
+2021-08-28 15:10:07,383 - log_utils.py[line:24] - INFO: 创建workbook的对象成功
+2021-08-28 15:10:07,383 - log_utils.py[line:27] - ERROR: 创建workbook的对象失败
+file:2021-08-28 15:16:42,002 - LOG_demo02_写入日志文件.py[line:38] - ERROR: 天天向上！！！
+file:2021-08-28 15:16:42,002 - LOG_demo02_写入日志文件.py[line:39] - INFO: 好好学习!!!!
+2021-08-28 15:27:44,289 - log_utils.py[line:28] - ERROR: 错误咯！！
+2021-08-28 15:27:44,289 - log_utils.py[line:28] - ERROR: 错误咯！！
+2021-08-28 15:34:37,250 - log_utils.py[line:28] - ERROR: excel文件未找到，使用默认路径文件： /Users/zhang/Desktop/PycharmProjects/python/pythonxiangmu/python对象/python_class/../data/学生基本信息.xlsx
+2021-09-01 19:57:09,389 - log_utils.py[line:25] - INFO: 创建workbook的对象成功
+2021-09-01 19:57:09,390 - log_utils.py[line:28] - ERROR: 创建workbook的对象失败
+2021-09-02 21:06:38,112 - log_utils.py[line:28] - ERROR: excel文件未找到，使用默认路径文件： /Users/zhang/Desktop/PycharmProjects/python/pythonxiangmu/python对象/python_class/../data/学生基本信息.xlsx
+2021-09-02 21:12:12,591 - log_utils.py[line:28] - ERROR: 错误咯！！
+2021-09-02 21:12:12,591 - log_utils.py[line:28] - ERROR: 错误咯！！

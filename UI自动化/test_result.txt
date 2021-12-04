@@ -1,0 +1,8 @@
+test_case_03 (__main__.testCase) ... ok
+test_case_02 (__main__.testCase) ... ok
+test_case_01 (__main__.testCase) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK
