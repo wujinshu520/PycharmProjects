@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f61fc138-1266-4859-a1da-2e45f5054804" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/cookies文件/CSDN.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/cookies文件/student.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/cookies文件/zentao.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/page_path/wait.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/selenium基础/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/selenium基础/demo01_selenium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/selenium基础/demo02_元素定位API.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/selenium基础/demo03_元素定位API_XPATH.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/selenium基础/demo04_元素定位_CSS_selector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/selenium基础/demo05_xpath定位_鼠标事件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/selenium基础/demo06_xpath_百度_鼠标右击操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/selenium基础/demo07_xpath_禅道_鼠标右击操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/selenium基础/demo08_xpath_百度_键盘事件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/selenium基础/demo09_xpath_隐示等待处理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/selenium基础/demo10_xpath_显示等待处理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/selenium基础/demo11_xpath_下拉框.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/selenium基础/demo11_xpath_等待处理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/selenium基础/demo12_xpath_frame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/selenium基础/demo13_xpath_js.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/selenium基础/demo14_xpath_浏览器多窗口处理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/selenium基础/demo15_xpath_浏览器多窗口处理方式二.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/selenium基础/demo16_xpath_禅道获取cookie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/selenium基础/demo17_免密码登录博客园.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/selenium基础/demo18_保存文件读取cookie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/selenium基础/demo19_读取文件中cookie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/webdriver/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/webdriver/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/登录CSDN/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/登录CSDN/csdn_cookie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/登录CSDN/csdn_login_by_cookie_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/登录禅道/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/登录禅道/zendao_cookie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium自动化/登录禅道/zendao_post_bug_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI实战/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI实战/demo01_zandao登录.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI实战/demo02_zandao登录生成报告.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI自动化/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI自动化/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI自动化/calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI自动化/calcTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI自动化/demo01_Unittest基础.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI自动化/demo02_断言.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI自动化/demo03_用例执行顺序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI自动化/demo04_指定顺序_套件方法一.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI自动化/demo05_忽略用例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI自动化/demo06_构建套件方法二.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI自动化/demo07_构建套件方法三.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI自动化/demo08_构建套件方法四.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI自动化/demo09_构建套件方法五.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI自动化/demo10_测试报告生成及优化.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI自动化/demo11_测试报告生成网页版.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI自动化/demo12_测试报告网页版二.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI自动化/test_one/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI自动化/test_one/test_one_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI自动化/test_one/test_one_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI自动化/test_one/test_two/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI自动化/test_one/test_two/test_two_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI自动化/test_one/test_two/test_two_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI自动化/test_result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI自动化/test_result.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI自动化/test_result2021_09_11_20_46_56.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo01_初识变量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo02_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo03_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo04_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo05_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo06_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo07_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo08_类型转换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo09_序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo10_输入输出语句.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo11_运算符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo12_控制语句.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo13_while循环语句.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo14_for循环语句.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo15_break_continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo16_冒泡排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo17_选择排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo18_函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo19_参数传递.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo20_作用域.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo21_作用域2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo22_内置变量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo23_LEGB法则.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo24_函数参数类型.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo25_函数嵌套.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo26_函数递归.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python基础/demo27_匿名函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/LOG/LOG_demo01_日志读取.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/LOG/LOG_demo02_写入日志文件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/LOG/python.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/data/学生基本信息.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/data/登录信息.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/StudentBaseInfo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo01_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo02_内置属性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo03_属性_方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo04_内置方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo05_封装.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo06_继承.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo07_多继承.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo08_抽象类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo09_抽象类案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo10_多态.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo11_异常处理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo12_触发异常.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo13_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo14_EXCEL读取.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo15_EXCEL列表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo16_EXCEL对象方法一.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo17_EXCEL对象方式二.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo18_EXCEL_函数封装.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo19_EXCEL_函数封装调用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo20_EXCEL_调用函数方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo21_EXCEL_class封装.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo22_EXCEL_class异常监控.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo23_EXCEL_class异常处理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo24_EXCEL_class异常处理方法二.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo25_EXCEL_class读取配置文件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo26_EXCEL_class读取路径配置文件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo27_EXCEL_class读取私有封装方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/python_class/demo28_EXCEL_class读取配置文件实例对象.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/utils/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/utils/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/utils/config_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/utils/config_utils_私有封装.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/utils/config_utils_获取路径封装.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/utils/config_utils_配置文件封装实例对象.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python对象/utils/log_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python模块/demo01_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python模块/demo02_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python模块/demo03_read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python模块/demo04_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python模块/demo05_tell.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python模块/demo06_file操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python模块/demo07_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python模块/demo08_datetime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python模块/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python模块/test/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python模块/test/b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/python模块/testa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/实战/ReadExcel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/实战/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/实战/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonxiangmu/实战/config_Utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1x26hsAWvDD24NfFL4TgfroJzYc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/python/python基础" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.demo13_excel">
+    <configuration name="demo09_抽象类案例" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/python对象/python_class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/python对象/python_class/demo09_抽象类案例.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo10_多态" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/python对象/python_class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/python对象/python_class/demo10_多态.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo11_异常处理" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/python对象/python_class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/python对象/python_class/demo11_异常处理.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo12_触发异常" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/python对象/python_class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/python对象/python_class/demo12_触发异常.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo13_excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/python对象/python_class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/python对象/python_class/demo13_excel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.demo13_excel" />
+        <item itemvalue="Python.demo12_触发异常" />
+        <item itemvalue="Python.demo11_异常处理" />
+        <item itemvalue="Python.demo10_多态" />
+        <item itemvalue="Python.demo09_抽象类案例" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f61fc138-1266-4859-a1da-2e45f5054804" name="Changes" comment="" />
+      <created>1629540958871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629540958871</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/python基础/demo07_dict.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
